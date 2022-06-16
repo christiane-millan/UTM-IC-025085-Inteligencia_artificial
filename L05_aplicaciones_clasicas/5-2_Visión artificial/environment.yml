@@ -1,0 +1,52 @@
+name: py39-2022b-802a-ia
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - opencv
+  - pexpect
+  - libffi
+  - readline
+  - libcxx
+  - stack_data
+  - prompt-toolkit
+  - sqlite
+  - jupyter_core
+  - ncurses
+  - tzdata
+  - appnope
+  - nest-asyncio
+  - pygments
+  - libsodium
+  - jupyter_client
+  - pip
+  - asttokens
+  - tk
+  - zlib
+  - wheel
+  - openssl
+  - ptyprocess
+  - traitlets
+  - matplotlib-inline
+  - jedi
+  - zeromq
+  - six
+  - entrypoints
+  - executing
+  - setuptools
+  - python-dateutil
+  - parso
+  - tornado
+  - ipython
+  - decorator
+  - pickleshare
+  - wcwidth
+  - backcall
+  - ca-certificates
+  - pure_eval
+  - xz
+  - certifi
+  - debugpy
+  - pyzmq
+  - ipykernel
+prefix: /Users/cmillan/opt/anaconda3/envs/py39-2022b-802a-ia

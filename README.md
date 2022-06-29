@@ -13,4 +13,4 @@ Material de apoyo para la asignatura de Inteligencia Artificial de la carrera de
 ## Unidad 7. Tópicos Avanzados
 
 * [7.1. Regresión lineal](https://github.com/christiane-millan/UTM-IC-025085-Inteligencia_artificial/tree/main/L07_topicos%20selectos/7-1_linear_regression)
-* [7.2. Regresión logística]()
+* [7.2. Regresión logística](https://github.com/christiane-millan/UTM-IC-025085-Inteligencia_artificial/tree/main/L07_topicos%20selectos/7-2_logistic_regression)
